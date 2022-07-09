@@ -3,7 +3,11 @@
 
 
 \[comment]: <> (a reference style link.)
+
+
 \[//]\: # (This may be the most platform independent comment)
+
+
 \[//]: <> (This is also a comment.)
 
 
@@ -24,9 +28,16 @@ Another paragraph & line break
 ## Different header sizes:
 
 \# header 1
+
+
 \## header 2
+
+
 \### header 3
+
+
 \#### header 4
+
 
 # Hello World
 ## Hello World
@@ -38,6 +49,8 @@ Another paragraph & line break
 ## Unordered lists:
 
 \* item
+
+
 \* item
 
 * Monday

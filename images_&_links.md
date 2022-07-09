@@ -7,6 +7,8 @@ For example:
 
 \![course poster]\(https://edteam-media.s3.amazonaws.com/infographics/original/3f4ce142-f8f4-4d41-923c-64ce9fbabf59.png)
 
+**Shows:**:
+
 ![course poster](https://edteam-media.s3.amazonaws.com/infographics/original/3f4ce142-f8f4-4d41-923c-64ce9fbabf59.png)
 
 
@@ -22,9 +24,11 @@ For example:
 
 \![Go to EDteam]\(https://ed.team)
 
+**Shows:**
+
 [Go to EDteam](https://ed.team)
 
-##### Second option:
+#### Second option:
 Define a text with a link [EDteam] to redirect to a webpage.
 
 **Using the syntax:**

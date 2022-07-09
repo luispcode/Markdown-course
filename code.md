@@ -15,6 +15,6 @@ code block
 more code``` 
 
 ```python
-#all the code block included.
+#all the code in code block included.
 print('Hello world')
 ```
