@@ -1,4 +1,4 @@
-# Hello world 👋
+# Hello world! 👋
 
 #### Welcome to the markdown course repository.
 
